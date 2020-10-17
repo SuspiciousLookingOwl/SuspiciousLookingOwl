@@ -28,3 +28,10 @@ Other technologies that I use are Socket.io, WebSocket, Redis, NginX, Bootstrap,
 
 ## <div align="center"> 📚 Learning </div>
 Currently learning / improving my skill on Container & Container Orchestration (Docker & Kubernetes), Kafka & RabbitMQ, Elasticsearch, Spring Boot (with Kotlin), Cassandra, Django, ReactJS, PWA, and some DevOps technologies.
+
+### <div align="center">🎬 Awesome Youtuber </div>
+<div align="center">
+
+[Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) | [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) | [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) | [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A) | [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+
+</div>
