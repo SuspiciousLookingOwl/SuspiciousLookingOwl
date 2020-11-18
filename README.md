@@ -1,15 +1,21 @@
 
 **Hello**,
 
-My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia. I'm a full-stack web developer, but sometimes also create a random script / bot just for fun / challenging my self. I'm also a hobbyist musician and a casual gamer that regularly stream on Twitch.
+My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia. I'm a full-stack web developer, but sometimes also create a random script / bot just for fun / challenging my self. My primary IDE / Code Editor are Visual Studio Code and IntelliJ IDEA (for Java and Kotlin). I'm also a hobbyist musician and a casual gamer that regularly stream on Twitch.
   
 - [vincentjonathan.com](https://vincentjonathan.com)
 - [StackOverflow](https://stackoverflow.com/users/12397250/owl)
 - [Twitch](https://www.twitch.tv/suspiciouslookingowl)
 
-Favorite IDE / Code Editor:
-- Visual Studio Code
-- IntelliJ IDEA (for Java and Kotlin)
+<details>
+  <summary>Programming Activity Over Last 7 Days</summary>
+  <img src="https://wakatime.com/share/@Owl/092e01cc-d656-4576-a630-06064fc71002.svg"></img>  
+</details>
+
+<details>
+  <summary>Languages Used Over Last 7 Days</summary>
+  <img src="https://wakatime.com/share/@Owl/825d34ec-299e-4e22-933a-b6d4a3427923.svg"></img>  
+</details>
 
 ## <div align="center">🖥️ Languages </div>
 <div align="center"> 
