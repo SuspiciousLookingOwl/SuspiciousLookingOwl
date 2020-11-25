@@ -14,7 +14,7 @@ My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia.
 
 <details>
   <summary>Languages Used Over Last 7 Days</summary>
-  <img src="https://wakatime.com/share/@Owl/825d34ec-299e-4e22-933a-b6d4a3427923.svg"></img>  
+  <img src="https://wakatime.com/share/@Owl/85befa24-4fc6-4644-ad19-5b10b5ecfb05.svg"></img>  
 </details>
 
 ## <div align="center">🖥️ Languages </div>
