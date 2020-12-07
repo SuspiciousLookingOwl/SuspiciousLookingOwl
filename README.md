@@ -29,7 +29,7 @@ My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia.
 
 ## <div align="center">⚡ Technologies</div>
 
-My commonly used stacks are [Vue](https://github.com/vuejs/vue) ([Quasar](https://github.com/quasarframework/quasar), [Vuetify](https://github.com/vuetifyjs/vuetify), [Vuex](https://github.com/vuejs/vuex)), [Express.js](https://github.com/expressjs/express) ([Mongoose](https://github.com/Automattic/mongoose)), [Flask](https://github.com/pallets/flask), [Slim](https://github.com/slimphp/Slim), MySQL, and MongoDB.
+My commonly used stacks are [Vue](https://github.com/vuejs/vue) ([Quasar](https://github.com/quasarframework/quasar), [Vuetify](https://github.com/vuetifyjs/vuetify), [Vuex](https://github.com/vuejs/vuex)), [Express.js](https://github.com/expressjs/express) ([Mongoose](https://github.com/Automattic/mongoose), [Sequelize](https://github.com/sequelize/sequelize)), [Flask](https://github.com/pallets/flask), [Slim](https://github.com/slimphp/Slim), MySQL, and MongoDB.
 Other technologies that I use are Socket.io, WebSocket, Redis, NginX, Bootstrap, and jQuery.
 
 ## <div align="center"> 📚 Learning </div>
