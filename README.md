@@ -8,13 +8,13 @@ My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia.
 - [Twitch](https://www.twitch.tv/suspiciouslookingowl)
 
 <details>
-  <summary>Programming Activity Over Last 7 Days</summary>
-  <img src="https://wakatime.com/share/@Owl/092e01cc-d656-4576-a630-06064fc71002.svg"></img>  
+  <summary>Programming Activity Over Last 30 Days</summary>
+  <img src="https://wakatime.com/share/@Owl/90925276-2cc4-4c5f-8856-587de7716c10.svg"></img>  
 </details>
 
 <details>
-  <summary>Languages Used Over Last 7 Days</summary>
-  <img src="https://wakatime.com/share/@Owl/85befa24-4fc6-4644-ad19-5b10b5ecfb05.svg"></img>  
+  <summary>Languages Used Over Last 30 Days</summary>
+  <img src="https://wakatime.com/share/@Owl/c87e2129-1b4a-40e1-8143-1beb43b6f0ba.svg"></img>  
 </details>
 
 ## <div align="center">🖥️ Languages </div>
