@@ -42,11 +42,6 @@ My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia.
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-## <div align="center">⚡ Technologies</div>
-
-My commonly used stacks are [Vue](https://github.com/vuejs/vue) ([Quasar](https://github.com/quasarframework/quasar), [Vuetify](https://github.com/vuetifyjs/vuetify), [Vuex](https://github.com/vuejs/vuex)), [Express.js](https://github.com/expressjs/express) ([Mongoose](https://github.com/Automattic/mongoose), [Sequelize](https://github.com/sequelize/sequelize)), [Flask](https://github.com/pallets/flask), [Slim](https://github.com/slimphp/Slim), MySQL, and MongoDB.
-Other technologies that I use are Socket.io, WebSocket, Redis, NginX, Bootstrap, and jQuery.
-
 ## <div align="center"> 📚 Learning </div>
 Currently learning / improving my skill on Container & Container Orchestration (Docker & Kubernetes), Kafka & RabbitMQ, Elasticsearch, Spring Boot (with Kotlin), Cassandra, Django, ReactJS, PWA, and some DevOps technologies.
 
