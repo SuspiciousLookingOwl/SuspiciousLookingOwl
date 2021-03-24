@@ -30,25 +30,22 @@ My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia.
 <div align="center">
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<img alt="Nuxt.js" src="https://img.shields.io/badge/NuxtJS-3FB27F.svg?&style=for-the-badge&logo=Nuxt.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+</div>
+
+<div align="center">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/redis-D12B1F?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-FFFFFF?style=for-the-badge&logo=socket.io&logoColor=black"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
 
-## <div align="center"> 📚 Learning </div>
-Currently learning / improving my skill on Container & Container Orchestration (Docker & Kubernetes), Kafka & RabbitMQ, Elasticsearch, Spring Boot (with Kotlin), Cassandra, Django, ReactJS, PWA, and some DevOps technologies.
-
-#### <div align="center">🎬 Awesome Youtuber </div>
-<div align="center">
-
-[Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) | [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) | [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) | [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A) | [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
-
-</div>
