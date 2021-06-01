@@ -39,6 +39,7 @@ My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia.
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+<img alt="Tailwind" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
 ## <div align="center">⚡ Other  Stack ⚡ </div>
