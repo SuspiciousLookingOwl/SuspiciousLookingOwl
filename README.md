@@ -27,6 +27,7 @@ My name is Vincent Jonathan, my internet nickname is Owl and I'm from Indonesia.
 <div align="center">
 <img alt="Serverless" src="https://img.shields.io/badge/Serverless%20-%23212121.svg?&style=for-the-badge&logo=serverless&logoColor=%23E95650"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23FFFFFF.svg?&style=for-the-badge&logo=graphql&logoColor=%23E10098"/>
 <img alt="Svelte" src="https://img.shields.io/badge/svelte-ffffff.svg?&style=for-the-badge&logo=svelte" />
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
